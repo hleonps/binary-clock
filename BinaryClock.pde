@@ -1,7 +1,5 @@
 /*
-  Binary Clock version 1.1
-  By Heiner León (hleonpsn[at]gmail[dot]com).
-  
+  Binary Clock.
   Written on Processing 3.
 */
 
